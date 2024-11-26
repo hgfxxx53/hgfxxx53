@@ -96,7 +96,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m a compputer ...<br>- 📚 Engineering ...<br>- ⚡ University student I.PP ...</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m a Ualfinhe ...<br>- 📚 Engineering ...<br>- ⚡ University student I.PP ...</p>
 
 ###
 
