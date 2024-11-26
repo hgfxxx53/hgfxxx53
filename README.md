@@ -35,7 +35,7 @@
 </div>
 
 ###
-<h2 align="left">Hi 👋! My name is ... Ualfinhe ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is ... Ualfinhe Barbosa ..., from ....</h2>
 
 ###
 
