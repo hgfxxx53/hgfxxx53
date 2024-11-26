@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I'm learning languages....</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 </div>
 
 ###
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is ... Ualfinhe ..., from ....</h2>
 
 ###
 
